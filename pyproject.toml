@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-dasiwa-workflow-sync"
+description = "Silently keeps the DaSiWa ComfyUI workflows (darksidewalker/dasiwa-comfyui-workflows) up to date in your Workflows menu, with an Active-only / All setting."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/damidero/ComfyUI-Dasiwa-Workflow-Sync"
+
+[tool.comfy]
+PublisherId = "damidero"
+DisplayName = "DaSiWa Workflow Sync"
+Icon = ""
+includes = []
